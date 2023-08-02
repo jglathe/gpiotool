@@ -1,0 +1,248 @@
+gpiochip0: GPIOs 512-741, parent: platform/f100000.pinctrl, f100000.pinctrl:
+ gpio0   : in  high func0 2mA no pull
+ gpio1   : in  low  func0 2mA pull down
+ gpio2   : in  high func1 2mA no pull
+ gpio3   : in  low  func1 2mA pull up
+ gpio4   : in  low  func0 2mA pull down
+ gpio5   : in  low  func0 2mA pull down
+ gpio6   : in  low  func0 2mA pull down
+ gpio7   : out high func0 8mA no pull
+ gpio8   : in  low  func0 2mA pull down
+ gpio9   : in  low  func0 2mA pull down
+ gpio10  : in  low  func0 2mA no pull
+ gpio11  : in  low  func0 2mA no pull
+ gpio12  : in  low  func0 2mA no pull
+ gpio13  : in  low  func0 2mA no pull
+ gpio14  : in  low  func0 2mA pull down
+ gpio15  : out high func0 8mA no pull
+ gpio16  : in  low  func0 2mA pull down
+ gpio17  : in  low  func0 2mA pull down
+ gpio18  : in  high func1 2mA pull up
+ gpio19  : in  high func1 2mA pull up
+ gpio20  : in  low  func0 2mA pull down
+ gpio21  : in  low  func0 2mA pull down
+ gpio22  : in  high func0 2mA no pull
+ gpio23  : in  high func0 2mA no pull
+ gpio24  : out low  func0 2mA no pull
+ gpio25  : in  low  func0 2mA pull down
+ gpio26  : in  low  func0 2mA pull down
+ gpio27  : in  low  func0 2mA pull down
+ gpio28  : in  low  func0 2mA pull down
+ gpio29  : out high func0 8mA no pull
+ gpio30  : in  low  func0 2mA pull down
+ gpio31  : in  low  func0 2mA pull down
+ gpio32  : in  low  func0 2mA pull down
+ gpio33  : in  low  func0 2mA pull down
+ gpio34  : in  low  func0 2mA pull down
+ gpio35  : in  high func0 2mA no pull
+ gpio36  : in  low  func0 2mA pull down
+ gpio37  : in  low  func0 2mA pull up
+ gpio38  : in  low  func0 2mA pull down
+ gpio39  : out high func0 2mA no pull
+ gpio40  : in  low  func0 2mA no pull
+ gpio41  : in  low  func0 2mA pull down
+ gpio42  : out high func0 2mA no pull
+ gpio43  : in  low  func0 2mA pull down
+ gpio44  : in  low  func0 2mA pull down
+ gpio45  : in  low  func0 2mA pull down
+ gpio46  : in  low  func0 2mA pull down
+ gpio47  : out low  func0 16mA no pull
+ gpio48  : out high func0 16mA no pull
+ gpio49  : in  high func0 2mA pull down
+ gpio50  : in  low  func0 2mA pull down
+ gpio51  : in  low  func0 2mA pull down
+ gpio52  : in  low  func0 2mA pull down
+ gpio53  : in  low  func0 2mA pull down
+ gpio54  : out low  func0 2mA pull down
+ gpio55  : in  high func0 2mA pull down
+ gpio56  : in  high func0 2mA pull down
+ gpio57  : in  low  func0 2mA pull down
+ gpio58  : in  low  func0 2mA pull down
+ gpio59  : in  low  func0 2mA pull down
+ gpio60  : in  low  func0 2mA pull down
+ gpio61  : in  low  func0 2mA pull down
+ gpio62  : in  low  func0 2mA pull down
+ gpio63  : out low  func1 2mA pull up
+ gpio64  : out low  func1 2mA pull down
+ gpio65  : in  low  func0 2mA no pull
+ gpio66  : out low  func1 2mA pull down
+ gpio67  : out low  func1 2mA pull up
+ gpio68  : out low  func1 2mA pull up
+ gpio69  : out low  func1 2mA pull down
+ gpio72  : in  low  func0 2mA pull down
+ gpio73  : in  low  func0 2mA pull down
+ gpio80  : in  low  func0 2mA pull down
+ gpio81  : in  low  func0 2mA pull down
+ gpio82  : in  low  func0 2mA pull down
+ gpio87  : in  low  func0 2mA pull down
+ gpio88  : in  low  func0 2mA pull down
+ gpio89  : in  low  func0 2mA pull down
+ gpio90  : in  low  func0 2mA pull down
+ gpio91  : in  low  func0 2mA pull down
+ gpio92  : in  low  func0 2mA pull down
+ gpio93  : in  low  func0 2mA pull down
+ gpio94  : in  low  func0 2mA pull down
+ gpio95  : in  low  func0 2mA no pull
+ gpio96  : in  low  func0 2mA pull down
+ gpio97  : in  low  func0 2mA pull down
+ gpio98  : in  low  func0 2mA pull down
+ gpio99  : in  low  func0 2mA pull down
+ gpio100 : in  high func0 2mA pull down
+ gpio101 : out high func0 16mA no pull
+ gpio102 : out high func0 16mA no pull
+ gpio103 : in  low  func0 2mA pull down
+ gpio104 : in  low  func0 2mA pull down
+ gpio105 : in  low  func0 2mA pull down
+ gpio106 : out high func0 2mA no pull
+ gpio107 : in  low  func0 2mA no pull
+ gpio108 : in  low  func0 2mA pull down
+ gpio109 : in  low  func0 2mA pull down
+ gpio110 : in  low  func0 2mA no pull
+ gpio111 : in  low  func0 2mA pull down
+ gpio112 : in  low  func0 2mA pull down
+ gpio113 : in  low  func0 2mA no pull
+ gpio114 : in  low  func0 2mA pull down
+ gpio115 : in  low  func0 2mA no pull
+ gpio116 : in  low  func0 2mA no pull
+ gpio117 : in  low  func0 2mA pull down
+ gpio118 : in  high func0 2mA pull up
+ gpio119 : in  low  func0 2mA no pull
+ gpio120 : in  low  func0 2mA pull down
+ gpio121 : in  low  func1 2mA keeper
+ gpio122 : in  low  func1 2mA no pull
+ gpio123 : in  high func1 2mA no pull
+ gpio124 : in  high func1 2mA pull up
+ gpio127 : in  low  func0 2mA pull down
+ gpio130 : in  low  func0 2mA pull down
+ gpio131 : in  low  func0 2mA no pull
+ gpio132 : in  high func0 2mA pull down
+ gpio133 : out high func0 16mA no pull
+ gpio134 : out high func0 4mA no pull
+ gpio135 : out high func0 2mA no pull
+ gpio136 : in  low  func0 2mA pull down
+ gpio137 : in  low  func0 2mA pull down
+ gpio138 : in  low  func0 2mA pull down
+ gpio139 : in  high func0 2mA pull up
+ gpio140 : in  low  func1 2mA pull up
+ gpio141 : out high func0 2mA pull down
+ gpio142 : in  low  func1 2mA pull up
+ gpio143 : out high func0 2mA pull down
+ gpio144 : in  high func0 2mA pull up
+ gpio145 : in  high func0 2mA pull up
+ gpio146 : in  low  func0 2mA pull down
+ gpio147 : in  low  func0 2mA pull down
+ gpio148 : in  high func0 2mA pull down
+ gpio149 : in  low  func0 2mA pull down
+ gpio150 : in  high func0 2mA pull up
+ gpio151 : in  low  func0 2mA pull down
+ gpio152 : in  high func0 2mA pull up
+ gpio153 : in  low  func0 2mA pull down
+ gpio161 : out low  func0 2mA no pull
+ gpio162 : in  low  func0 2mA pull down
+ gpio163 : in  low  func0 2mA pull down
+ gpio164 : out low  func0 16mA no pull
+ gpio165 : in  low  func0 2mA pull down
+ gpio166 : in  low  func0 2mA pull down
+ gpio167 : in  low  func0 2mA pull down
+ gpio168 : in  low  func0 2mA pull down
+ gpio169 : in  low  func0 2mA pull down
+ gpio170 : in  low  func0 2mA pull down
+ gpio171 : in  low  func0 2mA pull down
+ gpio172 : in  low  func0 2mA pull down
+ gpio173 : in  low  func0 2mA pull down
+ gpio174 : in  low  func0 2mA pull down
+ gpio175 : in  low  func0 2mA pull down
+ gpio176 : in  low  func0 2mA pull down
+ gpio177 : out low  func0 8mA no pull
+ gpio178 : out high func0 4mA no pull
+ gpio179 : out high func0 4mA no pull
+ gpio180 : in  high func0 2mA pull down
+ gpio181 : in  low  func0 2mA pull down
+ gpio182 : in  low  func0 2mA pull down
+ gpio183 : in  low  func0 2mA pull down
+ gpio184 : in  low  func0 2mA pull down
+ gpio185 : in  low  func0 2mA pull down
+ gpio186 : in  low  func0 2mA pull down
+ gpio187 : in  low  func0 2mA pull down
+ gpio188 : in  low  func0 2mA pull down
+ gpio189 : egpio
+ gpio190 : egpio
+ gpio191 : egpio
+ gpio192 : egpio
+ gpio193 : egpio
+ gpio194 : egpio
+ gpio195 : egpio
+ gpio196 : egpio
+ gpio197 : egpio
+ gpio198 : egpio
+ gpio199 : egpio
+ gpio200 : egpio
+ gpio201 : egpio
+ gpio202 : egpio
+ gpio203 : egpio
+ gpio204 : egpio
+ gpio205 : egpio
+ gpio206 : egpio
+ gpio207 : egpio
+ gpio208 : egpio
+ gpio209 : egpio
+ gpio210 : egpio
+ gpio211 : egpio
+ gpio212 : egpio
+ gpio213 : egpio
+ gpio214 : egpio
+ gpio215 : egpio
+ gpio216 : egpio
+ gpio217 : egpio
+ gpio218 : egpio
+ gpio219 : egpio
+ gpio220 : egpio
+ gpio221 : egpio
+ gpio222 : egpio
+ gpio223 : egpio
+ gpio224 : egpio
+ gpio225 : in  high func0 2mA no pull
+ gpio226 : egpio
+ gpio227 : egpio
+ ufs_reset: in  low  func0 8mA pull down
+ ufs1_reset: in  low  func0 8mA pull down
+gpiochip1: GPIOs 742-751, parent: platform/c440000.spmi:pmic@1:gpio@8800, c440000.spmi:pmic@1:gpio@8800:
+ gpio1 : out  low  normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
+ gpio2 : out  high normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
+ gpio3 : out  high normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
+ gpio4 : out  high normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
+ gpio5 : in   high normal  vin-0 pull-up 30uA                push-pull  high    atest-1 dtest-0
+ gpio6 : in   high normal  vin-1 no pull                     push-pull  high    atest-1 dtest-0
+ gpio7 : in   low  normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
+ gpio8 : in   low  normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
+ gpio9 : in   high normal  vin-1 pull-up 30uA                push-pull  high    atest-1 dtest-0
+ gpio10: in   low  normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
+
+gpiochip2: GPIOs 752-760, parent: platform/c440000.spmi:pmic@2:gpio@8800, c440000.spmi:pmic@2:gpio@8800:
+ gpio1 : out  high normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
+ gpio2 : in   low  normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
+ gpio3 : out  high normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
+ gpio4 : in   low  normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
+ gpio5 : out  high normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
+ gpio6 : out  high normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
+ gpio7 : out  high normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
+ gpio8 : in   low  normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
+ gpio9 : out  high normal  vin-1 pull-down 10uA              push-pull  high    atest-1 dtest-0
+
+gpiochip3: GPIOs 761-770, parent: platform/c440000.spmi:pmic@3:gpio@8800, c440000.spmi:pmic@3:gpio@8800:
+ gpio1 : out  low  normal  vin-1 no pull                     open-drain high    atest-1 dtest-0
+ gpio2 : in   low  normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
+ gpio3 : in   low  normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
+ gpio4 : out  high normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
+ gpio5 : in   low  normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
+ gpio6 : in   low  normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
+ gpio7 : out  high func1   vin-1 no pull                     push-pull  high    atest-1 dtest-0
+ gpio8 : in   low  normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
+ gpio9 : in   low  normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
+ gpio10: in   high normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
+
+gpiochip4: GPIOs 771-774, parent: platform/c440000.spmi:pmic@4:gpio@8800, c440000.spmi:pmic@4:gpio@8800:
+ gpio1 : out  high normal  vin-0 pull-down 10uA              push-pull  medium  atest-1 dtest-0
+ gpio2 : in   low  normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
+ gpio3 : in   low  normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
+ gpio4 : in   low  normal  vin-0 pull-down 10uA              push-pull  high    atest-1 dtest-0
